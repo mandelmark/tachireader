@@ -1,1 +1,16 @@
-com.HubLawtanApp1.tachireadermangaappadvisor
+{
+            "ads": {"network":"applovin","url":""},
+            "reword": {"items":""},
+            
+            "fan": {
+            "banner":"",
+            "inter":"",
+            "nativ":"",
+            "reword":""},
+            
+            "applovin": {
+            "banner":"e7e6af57fab27e49",
+            "inter":"5264e6deaade2175",
+            "nativ":"1dc7c6bbfc58865e",
+            "reword":"4bdc9487e4116ede"}
+            }
